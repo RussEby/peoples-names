@@ -1,3 +1,3 @@
-# starwars-names
+# peoples-names
 
-For all your random Star Wars character needs
+For all your random people names needs
